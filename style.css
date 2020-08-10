@@ -1,0 +1,57 @@
+
+.OuterLayer
+{
+    margin-top: 50px;
+}
+
+.OuterBody
+{
+justify-content: center;
+height: 570px;
+border-radius: 5px;
+border: 5px solid black;
+box-shadow: 10px 10px gray;
+font-family: fantasy;
+background-color: #009688;
+color: wheat;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
+/* h1.style.borderBottom="5px solid burlywood"; */
+.Date
+{
+    text-align: left;
+    float: left;
+}
+.Timer
+{
+    text-align: right;
+}
+.StartBtn
+{
+width: 150px;
+border-radius: 5px;
+margin-bottom: 10px;
+background-color: wheat;
+color: #009688;
+
+}
+.Question
+{
+    text-align: left;
+    margin-top: 10px;
+}
+.Ans
+{
+text-align: left;
+}
+.hide
+{
+    display: none;
+}
+.pointer
+{
+    cursor: pointer;
+}
